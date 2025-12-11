@@ -23,9 +23,6 @@
 ### 🛠️ Tech Stack & Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,github,git,postman,figma,&perline=4)](https://skillicons.dev)
 
-### 📊 GitHub Stats:
-![Abdul Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulWahab024)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab024&theme=dark)
 
 ### 🎯 What I Offer:
 - ✅ Cross-platform mobile app development (iOS & Android)
