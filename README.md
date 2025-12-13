@@ -6,7 +6,7 @@
 - 🔥 I build production-ready apps for iOS, Android, and Web using Flutter & Dart
 - 🛠️ Experienced in Firebase integration, RESTful APIs, state management, and complex UI implementations
 - 💡 Passionate about creating seamless user experiences and writing clean, maintainable code
-- 📫 Reach me at: abdulwahab2957@gmail.com
+- 📫 Reach me at: abdulwahab2957@outlook.com
 - 💬 Available for freelance projects and collaborations
 
 ### Connect with me:
